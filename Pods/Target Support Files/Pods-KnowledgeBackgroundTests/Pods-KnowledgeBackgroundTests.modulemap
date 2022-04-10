@@ -1,0 +1,6 @@
+framework module Pods_KnowledgeBackgroundTests {
+  umbrella header "Pods-KnowledgeBackgroundTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

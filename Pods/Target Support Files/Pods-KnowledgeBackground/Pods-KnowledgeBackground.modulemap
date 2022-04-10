@@ -1,0 +1,6 @@
+framework module Pods_KnowledgeBackground {
+  umbrella header "Pods-KnowledgeBackground-umbrella.h"
+
+  export *
+  module * { export * }
+}

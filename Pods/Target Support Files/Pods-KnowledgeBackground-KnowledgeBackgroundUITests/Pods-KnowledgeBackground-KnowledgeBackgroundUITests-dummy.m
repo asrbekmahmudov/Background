@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_KnowledgeBackground_KnowledgeBackgroundUITests : NSObject
+@end
+@implementation PodsDummy_Pods_KnowledgeBackground_KnowledgeBackgroundUITests
+@end
