@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>photos description.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>camera description.</string>
+	<key>CLIENT_ID</key>
+	<string>274849254713-1vft7qpj9mva7378e5t1or3plpqusrho.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.274849254713-1vft7qpj9mva7378e5t1or3plpqusrho</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJZPrz9pyqQCZmaHfdsIwOeIqMjwDbzng</string>
+	<key>GCM_SENDER_ID</key>
+	<string>274849254713</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>some.KnowledgeBackground</string>
+	<key>PROJECT_ID</key>
+	<string>ios-post-practice</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-post-practice.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:274849254713:ios:9f2f8edee15e7dc8e32ce8</string>
+</dict>
+</plist>
